@@ -21,7 +21,6 @@
 						<configuration>
 							<headerType>gui</headerType>
 							<outfile>${project.build.directory}/${project.build.finalName}.exe</outfile>
-							<jar>${project.build.directory}/${project.build.finalName}.jar</jar>
 							<errTitle>App Error</errTitle>
 							<classPath>
 								<mainClass>ventana.Ventana</mainClass>
